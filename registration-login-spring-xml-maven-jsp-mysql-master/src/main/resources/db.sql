@@ -34,7 +34,7 @@ CREATE TABLE `user` (
 --
 -- Table structure for table `user_role`
 --
-
+--hello how are you
 DROP TABLE IF EXISTS `user_role`;
 CREATE TABLE `user_role` (
   `user_id` int(11) NOT NULL,
